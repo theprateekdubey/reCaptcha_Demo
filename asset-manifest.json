@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reCaptcha_Demo/static/css/main.22bf5409.chunk.css",
+    "main.js": "/reCaptcha_Demo/static/js/main.dd8b6391.chunk.js",
+    "main.js.map": "/reCaptcha_Demo/static/js/main.dd8b6391.chunk.js.map",
+    "runtime-main.js": "/reCaptcha_Demo/static/js/runtime-main.2dd31dcb.js",
+    "runtime-main.js.map": "/reCaptcha_Demo/static/js/runtime-main.2dd31dcb.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/reCaptcha_Demo/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8117804f.chunk.js": "/reCaptcha_Demo/static/js/2.8117804f.chunk.js",
+    "static/js/2.8117804f.chunk.js.map": "/reCaptcha_Demo/static/js/2.8117804f.chunk.js.map",
+    "index.html": "/reCaptcha_Demo/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/reCaptcha_Demo/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.22bf5409.chunk.css.map": "/reCaptcha_Demo/static/css/main.22bf5409.chunk.css.map",
+    "static/js/2.8117804f.chunk.js.LICENSE.txt": "/reCaptcha_Demo/static/js/2.8117804f.chunk.js.LICENSE.txt",
+    "static/media/captcha.8e9dcce2.jpg": "/reCaptcha_Demo/static/media/captcha.8e9dcce2.jpg",
+    "static/media/logo.103b5fa1.svg": "/reCaptcha_Demo/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dd31dcb.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8117804f.chunk.js",
+    "static/css/main.22bf5409.chunk.css",
+    "static/js/main.dd8b6391.chunk.js"
+  ]
+}
