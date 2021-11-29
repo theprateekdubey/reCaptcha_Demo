@@ -1,6 +1,7 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import captchaImg from "./captcha.jpg";
-import studentIMG from "./2.png";
+// import studentIMG from "./2.png";
+import studentIMG from "./yash-logo-new.svg";
 import React, { useState, useEffect } from "react";
 import logo from "./logo.svg";
 
@@ -68,10 +69,9 @@ function Captcha() {
   return (
     <div>
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1 className="App-title">Validate reCaptcha Demo For Dexi.io </h1>
+        <h1 className="App-title mt-5">Validate Captcha Demo For Dexi.io </h1>
       </header>
-      <div class="container card ">
+      <div class="container card w-75">
         <div class="card-body">
           <div class="row mt-4">
             <div class="col-md-4"></div>
@@ -90,12 +90,6 @@ function Captcha() {
 
               <div class="form-group row">
                 <img src={studentIMG} className="mt-3 mb-3" height="90" />{" "}
-                <span
-                  class="font-weight-bold ml-3"
-                  style={{ marginTop: "50px" }}
-                >
-                  User
-                </span>
               </div>
 
               <div class="form-group row">
@@ -111,7 +105,7 @@ function Captcha() {
                   name="username"
                   onChange={handleChange}
                   autocomplete="off"
-                  style={{ width: "20%" }}
+                  style={{ width: "25%" }}
                 />
                 <button
                   type="button"
